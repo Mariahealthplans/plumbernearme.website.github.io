@@ -1,0 +1,35 @@
+
+.selector-for-some-widget {
+    box-sizing: content-box;
+}
+.topContainer {
+    box-sizing: border-box;
+   color: $gray-color;
+   display: block;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 15px;
+   height: 200px;
+   outline-color: rgb(76, 78, 82);
+    outline-style: none;  
+    outline-width: 0px;
+    pointer-events: auto;
+    text-size-adjust: 100%;
+    transition-delay: 0s;
+    transition-duration: .5s;
+    transition-property: height;
+    transition-timing-function: ease-out;
+    width: 600px;  
+
+
+}
+
+.body {
+    font-size: $body-font-size;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.button {
+    background-color: #6d99a2;
+    border-color:#ff272c;
+}
+
